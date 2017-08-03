@@ -15,6 +15,10 @@ public class GitTestOriginalLocal {
 		System.out.println("First change after first push.");
 		
 		System.out.println("First change after first pull.");
+		
+		 for (int i=0; i<5; i++) {
+			System.out.println (i);
+		}
 
 
 	}
