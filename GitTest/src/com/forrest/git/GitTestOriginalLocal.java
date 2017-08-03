@@ -13,6 +13,9 @@ public class GitTestOriginalLocal {
 		System.out.println("========================");
 		
 		System.out.println("First change after first push.");
+		
+		System.out.println("First change after first pull.");
+
 
 	}
 
