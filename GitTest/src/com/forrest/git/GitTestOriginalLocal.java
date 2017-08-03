@@ -11,6 +11,8 @@ public class GitTestOriginalLocal {
 		System.out.println(myEmail);
 		System.out.println(myAddress);
 		System.out.println("========================");
+		
+		System.out.println("First change after first push.");
 
 	}
 
